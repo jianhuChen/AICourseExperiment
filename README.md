@@ -4,13 +4,13 @@
 
 
 
-## Homework
+## homework
 
 老师布置的课后作业
 
 
 
-## Experiment 
+## lab 
 
 实验课代码，一共6次实验课，4个项目
 
